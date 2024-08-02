@@ -1,0 +1,11 @@
+Tic Tac Toe Game Project
+
+Project Overview :
+Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, 
+or diagonal row wins the game. This project involves designing and implementing a digital version of Tic Tac Toe, which can be played by two players on a computer or mobile device.
+
+Objectives :
+Create an interactive Tic Tac Toe game with a user-friendly interface.
+Implement game logic to handle player moves, check for wins, and determine draws.
+Allow two players to play the game on the same device.
+Optionally, implement an AI opponent for single-player mode.
